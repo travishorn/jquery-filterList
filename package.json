@@ -1,0 +1,16 @@
+{
+  "name": "filterList",
+  "version": "1.0",
+  "title": "jQuery.filterList()",
+  "author": {
+    "name": "Travis Horn"
+  },
+  "dependencies": {
+    "jquery": ">=1.6.4"
+  },
+  "description": "Uses an input box to filter an unordered list in real-time.",
+  "homepage": "https://sites.google.com/site/tpopsjqueryplugins/filterlist",
+  "files": [
+    "jquery.filterList.1.0.js"
+  ]
+}

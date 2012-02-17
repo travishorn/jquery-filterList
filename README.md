@@ -19,5 +19,4 @@ Open example.html for example usage.
     $('#filter').filterList();
 
 ## Links
-* [Online Demo](http://jsfiddle.net/hXXCw/)
-* [Screenshots](https://sites.google.com/site/tpopsjqueryplugins/filterlist/screenshots)
+* [Online Demo](http://travishorn.github.com/jquery-filterList)

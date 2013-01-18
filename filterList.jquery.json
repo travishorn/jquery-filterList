@@ -1,0 +1,28 @@
+{
+  "name": "filterList",
+  "title": "filterList",
+  "description": "Uses an input box to filter an unordered list in real-time.",
+  "keywords": [
+    "event",
+    "effect",
+    "form"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Travis Horn",
+    "url": "http://travishorn.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/travishorn/jquery-filterList/issues",
+  "homepage": "http://travishorn.github.com/jquery-filterList",
+  "docs": "http://travishorn.github.com/jquery-filterList",
+  "download": "https://github.com/travishorn/jquery-filterList/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.6.4"
+  }
+}

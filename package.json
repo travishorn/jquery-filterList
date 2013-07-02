@@ -1,0 +1,28 @@
+{
+  "name": "jquery-filterList",
+  "version": "1.0.2",
+  "description": "Uses an input box to filter an unordered list in real-time.",
+  "main": "lib/jquery.filterList.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travishorn/jquery-filterList.git"
+  },
+  "keywords": [
+    "event",
+    "effect",
+    "form"
+  ],
+  "author": "Travis Horn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travishorn/jquery-sessionTimeout/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}

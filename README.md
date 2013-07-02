@@ -1,9 +1,8 @@
 # filterList
+[![Build Status](https://api.travis-ci.org/travishorn/jquery-filterList.png)](https://travis-ci.org/travishorn/jquery-filterList)
 
 ## Description
 Uses an input box to filter an unordered list in real-time.
-
-Open example.html for example usage.
 
 ## Required HTML
     <form>
@@ -19,4 +18,4 @@ Open example.html for example usage.
     $('#filter').filterList();
 
 ## Links
-* [Online Demo](http://travishorn.github.com/jquery-filterList)
+* [Online Demo](http://jsfiddle.net/x5KSQ/)

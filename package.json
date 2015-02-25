@@ -1,6 +1,6 @@
 {
   "name": "jquery-filterlist",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Uses an input box to filter an unordered list in real-time.",
   "main": "lib/jquery.filterList.js",
   "scripts": {
